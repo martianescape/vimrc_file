@@ -21,6 +21,9 @@ set hlsearch
 " Now we can turn our filetype functionality back on
     filetype plugin indent on
 
+
+
+
     set number
     set shiftwidth=2
     set tabstop=2
